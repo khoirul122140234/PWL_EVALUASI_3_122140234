@@ -1,9 +1,9 @@
-
-
-````markdown
 # Implementasi SEO dan Pengukuran Kinerja Website  
 **Portfolio Khoirul Rijal Wicaksono**  
 **NIM: 122140234**
+
+````markdown
+
 
 ---
 
@@ -241,4 +241,4 @@ new PerformanceObserver((entryList) => {
 
 ---
 
-Kalau mau aku bisa bantu buatkan file README.md ini langsung dalam format file siap upload, atau kamu ingin tambahan lain?
+
