@@ -11,7 +11,7 @@
 
 ### 1.1 Analisis Elemen SEO Pada Website
 
-**Meta Tags**  
+**Meta Tags** 
 Website portfolio Khoirul Rijal Wicaksono telah mengimplementasikan beberapa elemen SEO penting pada bagian `<head>` dokumen HTML:  
 - **Meta Description:**  
   ```html
