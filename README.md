@@ -2,14 +2,12 @@
 **Portfolio Khoirul Rijal Wicaksono**  
 **NIM: 122140234**
 
-````markdown
-
-
----
 
 ## 1. Implementasi SEO
 
 ### 1.1 Analisis Elemen SEO Pada Website
+````markdown
+---
 
 -Meta Tags
 Website portfolio Khoirul Rijal Wicaksono telah mengimplementasikan beberapa elemen SEO penting pada bagian `<head>` dokumen HTML:
