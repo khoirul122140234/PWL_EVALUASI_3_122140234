@@ -18,12 +18,12 @@ Website portfolio Khoirul Rijal Wicaksono telah mengimplementasikan beberapa ele
   <meta name="description" content="Portfolio Khoirul Rijal Wicaksono, Network Engineer profesional dengan pengalaman dan keahlian di bidang jaringan komputer. Jelajahi proyek dan keahlian saya dalam manajemen dan pengelolaan jaringan!"/>
 ````
 
-* **Meta Keywords:**
+ **Meta Keywords:**
 
   ```html
   <meta name="keywords" content="Network Engineer, portfolio jaringan, Khoirul Rijal Wicaksono, administrasi jaringan, manajemen jaringan, IT network" />
   ```
-* **Meta Author:**
+ **Meta Author:**
 
   ```html
   <meta name="author" content="Khoirul Rijal Wicaksono" />
